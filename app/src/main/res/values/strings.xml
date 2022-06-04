@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">elections</string>
+    <string name="counties">
+        <item>Mombasa county</item>
+        <item>Kwale county</item>
+	    <item>Kilifi county</item>
+      	<item>Tana River county</item>
+        <item>Lamu county</item>
+        <item>Taita–taveta county</item>
+	    <item>Garissa county</item>
+      	<item>Wajir county	</item>
+        <item>Mandera county</item>
+        <item>Marsabit county	</item>
+        <item>	Isiolo	county</item>
+        <item>	Meru county	</item>
+        <item>	Tharaka-Nithi county	</item>
+        <item>	Embu county</item>
+        <item>	Kitui county	</item>
+        <item>	Machakos county	</item>
+        <item>	Makueni county	</item>
+        <item>	Nyandarua county	</item>
+        <item>	Nyeri county	</item>
+        <item>	Kirinyaga county	</item>
+        <item>Murang\a county	</item>
+        <item>Kiambu county</item>
+        <item>	Turkana county</item>
+        <item>	West Pokot county	</item>
+        <item>	Samburu county	</item>
+        <item>Trans-Nzoia county	</item>
+        <item>	Uasin Gishu county	</item>
+        <item>Elgeyo-Marakwet county</item>
+        <item>	Nandi county</item>
+        <item>	Baringo county	</item>
+        <item>	Laikipia county	</item>
+        <item>Nakuru county	</item>
+        <item>	Narok county	</item>
+        <item>	Kajiado county	</item>
+        <item>	Kericho county	</item>
+        <item>	Bomet county	</item>
+        <item>	Kakamega county	</item>
+        <item>	Vihiga county	</item>
+        <item>Bungoma county	</item>
+        <item>	Busia county	</item>
+        <item>	Siaya county	</item>
+        <item>	Kisumu county	</item>
+        <item>Homa Bay county	</item>
+        <item>	Migori county</item>
+        <item>	Kisii county</item>
+        <item>	Nyamira	county	</item>
+        <item>	Nairobi county</item>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
