@@ -1,3 +1,2 @@
-# rose
-second official project 
-total burst
+#Learning Android Development
+Basic Andoid Application with LoginPage and Sign up page
